@@ -33,6 +33,7 @@ useState,  fetchPokemon
 vercel : https://pokemon-memory-game-git-main-yewonbaek.vercel.app/
 git: https://github.com/baekyewoa0727-jpg/Pokemon-Memory-Game.git
 assign: https://github.com/2026-2-OSS/assign10-c02-22400330.git
+원본 주소 : https://github.com/Facundo-byte/Pokemon-Memory-Game.git
 
 
 수정 전: 
