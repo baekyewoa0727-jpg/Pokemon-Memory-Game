@@ -35,6 +35,7 @@ export default function Memory() {
   }
 
   function handleButton(){
+    // 
     setPoints(0);
     setRecord(0);
   }
