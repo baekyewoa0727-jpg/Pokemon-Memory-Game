@@ -34,9 +34,15 @@ git: https://github.com/baekyewoa0727-jpg/Pokemon-Memory-Game.git
 assign: https://github.com/2026-2-OSS/assign10-c02-22400330.git
 원본 주소 : https://github.com/Facundo-byte/Pokemon-Memory-Game.git
 
+수정 전
+![Before](./readmeimg/before.png)
 
-수정 전: 
-수정 후: 
+수정 후
+![After](./readmeimg/after.png)
+
+
+주요 파일: 
+app.jsx, styles, main.jsx, index.html
 
 Weekly Review:
 새롭게 배운 내용 3가지 - 
