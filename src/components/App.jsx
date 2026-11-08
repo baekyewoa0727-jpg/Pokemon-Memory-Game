@@ -54,7 +54,8 @@ export default function Memory() {
       <h1>PocketMon Memory Game</h1>
       <p>Get points by clicking on an image but dont click on any more than Once!</p>
       <p>이미지를 클릭하여 점수를 얻으세요. 단, 각 이미지는 한 번만 클릭해야 합니다!</p>
-      <p>points: {points} , record: {record}</p>
+      <p id="point">points: {points} </p>
+      <p id="record">record: {record}</p>
       <button onClick ={() => handleButton()}>Restart</button>
       <ul id="itemscontainer">
         {numbers.length === 9 && numbers.map((num,index) => 

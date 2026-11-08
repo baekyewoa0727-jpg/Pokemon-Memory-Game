@@ -1,6 +1,14 @@
 body{
   margin: 0;
   padding: 0;
+  background-color: #f1eedd;
+}
+
+h1{
+  color: black;
+}
+p{
+  color: black;
 }
 
 #root{
@@ -28,11 +36,11 @@ li{
 .item{
   display: flex;
   flex-direction: column;
-  background-color: rgb(80, 80, 80);
   align-items: center;
   padding: 10px;
   gap: 5px;
   border-radius: 15px;
+  border-color: black;
 }
 
 .item:hover{
