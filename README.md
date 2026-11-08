@@ -28,3 +28,13 @@ b) 아이템 컴포넌트
 -데이터 요청, 이름/이미지 출력 
 [역할]
 useState,  fetchPokemon
+
+주소 
+vercel : https://pokemon-memory-game-git-main-yewonbaek.vercel.app/
+git: https://github.com/baekyewoa0727-jpg/Pokemon-Memory-Game.git
+assign: https://github.com/2026-2-OSS/assign10-c02-22400330.git
+
+
+수정 전: 
+수정 후: 
+
